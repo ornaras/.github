@@ -21,7 +21,7 @@ __ScanKass__ | Real-time monitoring of **_fiscal_** components and services | ![
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ornaras&theme=dark&hide_border=false"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=ornaras&theme=dark&hide_border=false"/><br/>
-  <img src="[https://github-readme-stats.vercel.app](https://github-readme-stats.vercel.app)/api/top-langs/?username=ornaras&theme=dark&hide_border=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornaras&theme=dark&hide_border=false&layout=compact"/>
 </div>
 
 ## 🏆 GitHub Trophies
