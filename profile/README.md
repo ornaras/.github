@@ -19,6 +19,11 @@ Project | Stack
 __RetailCorrector__<br/><blockquote>Utility for correcting receipts</blockquote> | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 <b style="color: red">ScanKass</b><br/><blockquote>Real-time monitoring of <i><b>fiscal</b></i> components and services</blockquote> | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-%23239120.svg?style=for-the-badge&logoColor=white) ![JSON.NET](https://img.shields.io/badge/JSON.NET-black.svg?style=for-the-badge&logo=rocket&logoColor=white) ![NSIS](https://img.shields.io/badge/NSIS-%2301B0F0.svg?style=for-the-badge&logo=nsis&logoColor=white)<br/>![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebird](https://img.shields.io/badge/Firebird-%23e9730a.svg?style=for-the-badge)<br/>![GitHub](https://img.shields.io/badge/GitHub_API-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+# 📜 My Gists:
+<div align="center">
+  <a href="https://gist.github.com/Yizack/2a1237ffa669f63c20c5482d653ed4aa/"><img src="https://github-readme-stats.vercel.app/api/gist?id=2a1237ffa669f63c20c5482d653ed4aa&theme=transparent&hide_border=false"/></a>
+</div>
+
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ornaras&theme=transparent&hide_border=false"/>
