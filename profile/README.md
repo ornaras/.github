@@ -21,7 +21,7 @@ __RetailCorrector__<br/><blockquote>Utility for correcting receipts</blockquote>
 
 # 📜 My Gists:
 <div align="center">
-  <a href="https://gist.github.com/Yizack/2a1237ffa669f63c20c5482d653ed4aa/"><img src="https://github-readme-stats.vercel.app/api/gist?id=2a1237ffa669f63c20c5482d653ed4aa&theme=transparent&hide_border=false"/></a>
+  <a href="https://gist.github.com/ornaras/2a1237ffa669f63c20c5482d653ed4aa/"><img src="https://github-readme-stats.vercel.app/api/gist?id=2a1237ffa669f63c20c5482d653ed4aa&theme=transparent&hide_border=false"/></a>
 </div>
 
 # 📊 GitHub Stats:
