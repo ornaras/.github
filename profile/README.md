@@ -27,7 +27,7 @@ __RetailCorrector__<br/><blockquote>Utility for correcting receipts</blockquote>
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ornaras&theme=transparent&hide_border=false"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ornaras&theme=transparent&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornaras&theme=transparent&hide_border=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ornaras&theme=transparent&show=reviews"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornaras&theme=transparent&layout=donut"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ornaras&theme=transparent&hide_border=false"/>
 </div>
