@@ -44,16 +44,127 @@ I am currently working on [![ScanKass](https://img.shields.io/badge/ScanKass-%23
 </div>
 
 # 🗂️ My Projects:
-Project | Stack
---- | ---
-[![PresentTime](https://github-readme-stats.vercel.app/api/pin/?username=ornaras&repo=PresentTime&theme=transparent&hide_border=true)](https://github.com/ornaras/PresentTime) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-%23c71a36.svg?style=for-the-badge&logo=apachemaven&logoColor=white) ![SpigotMC](https://img.shields.io/badge/SpigotMC-%23ed8106.svg?style=for-the-badge&logo=spigotmc&logoColor=white)
-[![EoU-Port Changer](https://github-readme-stats.vercel.app/api/pin/?username=ornaras&repo=eou-port-changer&theme=transparent&hide_border=true)](https://github.com/ornaras/eou-port-changer) | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Native AoT](https://img.shields.io/badge/Native%20AoT-5a26d9?style=for-the-badge)
-[![PCBSLib](https://github-readme-stats.vercel.app/api/pin/?username=ornaras&repo=PCBSLib&theme=transparent&hide_border=true)](https://github.com/ornaras/PCBSLib) | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-[![DinnerBot](https://github-readme-stats.vercel.app/api/pin/?username=ornaras&repo=dinner-bot&theme=transparent&hide_border=true)](https://github.com/ornaras/dinner-bot) | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![.env](https://img.shields.io/badge/.env-000000?style=for-the-badge&logo=.env) ![Telegram Bot API](https://img.shields.io/badge/Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-[![HackerMan](https://github-readme-stats.vercel.app/api/pin/?username=ornaras&repo=HackerMan&theme=transparent&hide_border=true)](https://github.com/ornaras/HackerMan) | ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-__RetailCorrector__<br/><blockquote>Utility for correcting receipts</blockquote> | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-<b style="color: red">ScanKass</b><br/><blockquote>Real-time monitoring of <i><b>fiscal</b></i> components and services</blockquote> | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-%23239120.svg?style=for-the-badge&logoColor=white) ![JSON.NET](https://img.shields.io/badge/JSON.NET-black.svg?style=for-the-badge&logo=rocket&logoColor=white) ![NSIS](https://img.shields.io/badge/NSIS-%2301B0F0.svg?style=for-the-badge&logo=nsis&logoColor=white)<br/>![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebird](https://img.shields.io/badge/Firebird-%23e9730a.svg?style=for-the-badge)<br/>![GitHub](https://img.shields.io/badge/GitHub_API-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<b style="color: red">???</b><br/><blockquote>???</blockquote> | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-black.svg?style=for-the-badge&logo=rust&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)<br/>![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Inno Setup & Pascal](https://img.shields.io/badge/PASCAL-Inno_Setup-6795E5?style=for-the-badge&labelColor=3160A0) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)<br/>![Firebird](https://img.shields.io/badge/Firebird-%23e9730a.svg?style=for-the-badge) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&amp;logo=JSON%20web%20tokens)
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Stack</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github.com/ornaras/PresentTime">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ornaras&amp;repo=PresentTime&amp;theme=transparent&amp;hide_border=true" alt="PresentTime">
+          </a>
+        </td>
+        <td>
+          <div align="center">
+            <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java">
+            <img src="https://img.shields.io/badge/Maven-%23c71a36.svg?style=for-the-badge&amp;logo=apachemaven&amp;logoColor=white" alt="Maven">
+            <img src="https://img.shields.io/badge/SpigotMC-%23ed8106.svg?style=for-the-badge&amp;logo=spigotmc&amp;logoColor=white" alt="SpigotMC">
+          </div>
+        </td>
+        </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/ornaras/eou-port-changer">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ornaras&amp;repo=eou-port-changer&amp;theme=transparent&amp;hide_border=true" alt="EoU-Port Changer">
+          </a>
+        </td>
+        <td>
+          <div align="center">
+            <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#"> 
+            <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" alt=".Net"> 
+            <img src="https://img.shields.io/badge/Native%20AoT-5a26d9?style=for-the-badge" alt="Native AoT">
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/ornaras/PCBSLib">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ornaras&amp;repo=PCBSLib&amp;theme=transparent&amp;hide_border=true" alt="PCBSLib">
+          </a>
+        </td>
+        <td>
+          <div align="center">
+            <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#"> 
+            <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" alt=".Net">
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/ornaras/dinner-bot">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ornaras&amp;repo=dinner-bot&amp;theme=transparent&amp;hide_border=true" alt="DinnerBot">
+          </a>
+        </td>
+        <td>
+          <div align="center">
+            <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#"> 
+            <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" alt=".Net"> 
+            <img src="https://img.shields.io/badge/.env-000000?style=for-the-badge&amp;logo=.env" alt=".env"> 
+            <img src="https://img.shields.io/badge/Bot_API-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram Bot API"> 
+            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman">
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/ornaras/HackerMan">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ornaras&amp;repo=HackerMan&amp;theme=transparent&amp;hide_border=true" alt="HackerMan">
+          </a>
+        </td>
+        <td>
+          <div align="center">
+            <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++">
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div align="center">
+            <strong>RetailCorrector</strong><br/>
+            <blockquote>Utility for correcting receipts</blockquote>
+            <img src="https://wakatime.com/badge/user/cb1d81a4-cf38-4b2f-a98a-4e569f87e13b/project/6d9d0077-fcfa-4326-942d-add652280cfa.svg" alt="wakatime">
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#">
+            <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" alt=".Net"> 
+            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman"> 
+            <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&amp;logo=sonarqube&amp;logoColor=4E9BCD" alt="SonarQube">
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div align="center">
+            <strong>ScanKass</strong><br/>
+            <blockquote>Real-time monitoring of <i><b>fiscal</b></i> components and services</blockquote>
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#"> 
+            <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" alt=".Net"> 
+            <img src="https://img.shields.io/badge/WPF-%23239120.svg?style=for-the-badge&amp;logoColor=white" alt="WPF"> 
+            <img src="https://img.shields.io/badge/JSON.NET-black.svg?style=for-the-badge&amp;logo=rocket&amp;logoColor=white" alt="JSON.NET"> 
+            <img src="https://img.shields.io/badge/NSIS-%2301B0F0.svg?style=for-the-badge&amp;logo=nsis&amp;logoColor=white" alt="NSIS"><br/>
+            <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&amp;logo=swagger&amp;logoColor=white" alt="Swagger"> 
+            <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite"> 
+            <img src="https://img.shields.io/badge/Firebird-%23e9730a.svg?style=for-the-badge" alt="Firebird"><br/>
+            <img src="https://img.shields.io/badge/GitHub_API-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 # 📜 My Gists:
 <div align="center">
