@@ -122,6 +122,18 @@ I am currently working on [![ScanKass](https://img.shields.io/badge/ScanKass-%23
       </tr>
       <tr>
         <td>
+          <a href="https://github.com/ornaras/ServiceHelper">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ornaras&amp;repo=ServiceHelper&amp;theme=transparent&amp;hide_border=true" alt="MiniBots">
+          </a>
+        </td>
+        <td>
+          <div align="center">
+            <img src="https://img.shields.io/badge/Inno_Setup-PASCAL-3670A0?style=for-the-badge&amp;logoColor=ffdd54" alt="Inno Setup & Pascal"> 
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
           <div align="center">
             <strong>RetailCorrector</strong><br/>
             <blockquote>Utility for correcting receipts</blockquote>
