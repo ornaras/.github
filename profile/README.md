@@ -97,22 +97,6 @@ I am currently working on [![ScanKass](https://img.shields.io/badge/ScanKass-%23
       </tr>
       <tr>
         <td>
-          <a href="https://github.com/ornaras/dinner-bot">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ornaras&amp;repo=dinner-bot&amp;theme=transparent&amp;hide_border=true" alt="DinnerBot">
-          </a>
-        </td>
-        <td>
-          <div align="center">
-            <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#"> 
-            <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" alt=".Net"> 
-            <img src="https://img.shields.io/badge/.env-000000?style=for-the-badge&amp;logo=.env" alt=".env"> 
-            <img src="https://img.shields.io/badge/Bot_API-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram Bot API"> 
-            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman">
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td>
           <a href="https://github.com/ornaras/HackerMan">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=ornaras&amp;repo=HackerMan&amp;theme=transparent&amp;hide_border=true" alt="HackerMan">
           </a>
@@ -120,6 +104,19 @@ I am currently working on [![ScanKass](https://img.shields.io/badge/ScanKass-%23
         <td>
           <div align="center">
             <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++">
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/ornaras/MiniBots">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ornaras&amp;repo=MiniBots&amp;theme=transparent&amp;hide_border=true" alt="MiniBots">
+          </a>
+        </td>
+        <td>
+          <div align="center">
+            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"> 
+            <img src="https://img.shields.io/badge/Bot_API-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram Bot API"> 
           </div>
         </td>
       </tr>
