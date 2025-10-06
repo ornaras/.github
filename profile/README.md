@@ -52,6 +52,7 @@ I am currently working on [![ScanKass](https://img.shields.io/badge/ScanKass-%23
 [![HackerMan](https://github-readme-stats.vercel.app/api/pin/?username=ornaras&repo=HackerMan&theme=transparent)](https://github.com/ornaras/HackerMan)
 [![MiniBots](https://github-readme-stats.vercel.app/api/pin/?username=ornaras&repo=MiniBots&theme=transparent)](https://github.com/ornaras/MiniBots)
 [![ServiceHelper](https://github-readme-stats.vercel.app/api/pin/?username=ornaras&repo=ServiceHelper&theme=transparent)](https://github.com/ornaras/ServiceHelper)
+[![Kraig](https://github-readme-stats.vercel.app/api/pin/?username=ornaras&repo=Kraig&theme=transparent)](https://github.com/ornaras/Kraig)
   
 </div>
 
