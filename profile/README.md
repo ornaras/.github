@@ -3,11 +3,13 @@ I am currently working on [![ScanKass](https://img.shields.io/badge/ScanKass-%23
 
 ## 🌐 Socials:
 <div align="center">
-  <a href="https://discord.gg/ornaras"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&amp;logoColor=white" alt="Discord"></a> 
-  <a href="https://reddit.com/user/ornaras"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&amp;logoColor=white" alt="Reddit"></a> 
-  <a href="https://www.youtube.com/@ornaras-the-copybara"><img src="https://img.shields.io/badge/YouTube-%23C4302B.svg?style=for-the-badge&logo=youtube&amp;logoColor=white" alt="YouTube"></a> 
-  <a href="https://t.me/ornaras"><img src="https://img.shields.io/badge/Telegram-%231d94d0.svg?style=for-the-badge&logo=Telegram&amp;logoColor=white" alt="Telegram"></a> 
-  <a href="mailto:ornaras.us@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&amp;logoColor=white" alt="email"></a>
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&amp;logoColor=white)](https://discord.gg/ornaras)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&amp;logoColor=white)](https://reddit.com/user/ornaras)
+[![YouTube](https://img.shields.io/badge/YouTube-%23C4302B.svg?style=for-the-badge&logo=youtube&amp;logoColor=white)](https://www.youtube.com/@o-r-n-a-r-a-s)
+[![Telegram](https://img.shields.io/badge/Telegram-%231d94d0.svg?style=for-the-badge&logo=Telegram&amp;logoColor=white)](https://t.me/ornaras)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&amp;logoColor=white)](mailto:ornaras.us@gmail.com)
+  
 </div>
 
 # 💻 Tech Stack:
@@ -59,8 +61,10 @@ I am currently working on [![ScanKass](https://img.shields.io/badge/ScanKass-%23
 
 # 📜 My Gists:
 <div align="center">
-  <a href="https://gist.github.com/ornaras/2a1237ffa669f63c20c5482d653ed4aa/"><img src="https://github-readme-stats.vercel.app/api/gist?id=2a1237ffa669f63c20c5482d653ed4aa&theme=transparent"/></a>
-  <a href="https://gist.github.com/ornaras/8fe025942e41d584c8e200ea0e91ea51/"><img src="https://github-readme-stats.vercel.app/api/gist?id=8fe025942e41d584c8e200ea0e91ea51&theme=transparent"/></a>
+
+[![Atol.Driver10.Fptr.Constants.cs](https://github-readme-stats.vercel.app/api/gist?id=2a1237ffa669f63c20c5482d653ed4aa&theme=transparent)](https://gist.github.com/ornaras/2a1237ffa669f63c20c5482d653ed4aa)
+[![Environment.SpecialFolder.md](https://github-readme-stats.vercel.app/api/gist?id=8fe025942e41d584c8e200ea0e91ea51&theme=transparent)](https://gist.github.com/ornaras/8fe025942e41d584c8e200ea0e91ea51)
+
 </div>
 
 # 📊 GitHub Stats:
