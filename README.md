@@ -16,31 +16,42 @@ I am currently working on [![ScanKass](https://img.shields.io/badge/ScanKass-%23
 
 # 💻 Tech Stack:
 <div align="center">
+
+### Languages
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#"> 
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&amp;logo=dart&amp;logoColor=white" alt="Dart"> 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"> 
+  <img src="https://img.shields.io/badge/GO-ffffff?style=for-the-badge&amp;logo=go" alt="GO"> 
+
+### Frameworks and SDKs
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" alt=".Net">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&amp;logo=Arduino&amp;logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask"> 
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&amp;logo=fastapi" alt="FastAPI"> 
-  <img src="https://img.shields.io/badge/GO-ffffff?style=for-the-badge&amp;logo=go" alt="GO"> 
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&amp;logo=JSON%20web%20tokens" alt="JWT"> 
+
+### Game Engines
+  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&amp;logo=godot-engine" alt="Godot Engine"> 
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity"> 
+
+### Databases
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite"> 
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
+
+### Tools
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma"> 
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions"> 
   <img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab CI"> 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"> 
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&amp;logo=Arduino&amp;logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&amp;logo=cisco&amp;logoColor=black" alt="Cisco"> 
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"> 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman"> 
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&amp;logo=swagger&amp;logoColor=white" alt="Swagger"> 
-  <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&amp;logo=sonarqube&amp;logoColor=4E9BCD" alt="SonarQube"> 
-  <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&amp;logo=wireguard&amp;logoColor=white" alt="Wireguard"> 
-  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&amp;logo=godot-engine" alt="Godot Engine"> 
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity"> 
   <img src="https://img.shields.io/badge/NSIS-%2301B0F0.svg?style=for-the-badge&amp;logo=nsis&amp;logoColor=white" alt="NSIS">
+  <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&amp;logo=sonarqube&amp;logoColor=4E9BCD" alt="SonarQube"> 
+  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&amp;logo=cisco&amp;logoColor=black" alt="Cisco"> 
+  <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&amp;logo=wireguard&amp;logoColor=white" alt="Wireguard"> 
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&amp;logo=JSON%20web%20tokens" alt="JWT"> 
+  
 </div>
 
 ## ⏲️ WakaTime Stat:
