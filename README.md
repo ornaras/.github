@@ -1,5 +1,10 @@
-# 💫 About Me:
-I am currently working on [![ScanKass](https://img.shields.io/badge/ScanKass-%2306802F?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iNDE5IiBoZWlnaHQ9IjQxOCIgdmlld0JveD0iMCAwIDQxOSA0MTgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BCjxwYXRoIGQ9Ik0yMjcgMjI2SDM2NVYzNjRIMjI3VjIyNloiIGZpbGw9ImJsYWNrIi8%2BCjxyZWN0IHg9IjU1IiB5PSI1NCIgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxNzEiIGZpbGw9IiMwQkRBNTEiLz4KPC9zdmc%2BCg%3D%3D&labelColor=%23ffffff)](https://scankass.ru) and there I am updating the main application and developing the setup wizard, installer and additional libraries.
+![header](https://socialify.git.ci/ornaras/ornaras/image?custom_description=Developer+of+server+%26+desktop+software&custom_language=.NET&description=1&font=Source+Code+Pro&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fornaras%2Fornaras%2Frefs%2Fheads%2Fmain%2Flogo-header.svg&pattern=Diagonal+Stripes&theme=Dark)
+
+<div align="center">
+
+  ### I am currently working on [![ScanKass](https://img.shields.io/badge/ScanKass-%2306802F?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iNDE5IiBoZWlnaHQ9IjQxOCIgdmlld0JveD0iMCAwIDQxOSA0MTgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BCjxwYXRoIGQ9Ik0yMjcgMjI2SDM2NVYzNjRIMjI3VjIyNloiIGZpbGw9ImJsYWNrIi8%2BCjxyZWN0IHg9IjU1IiB5PSI1NCIgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxNzEiIGZpbGw9IiMwQkRBNTEiLz4KPC9zdmc%2BCg%3D%3D&labelColor=%23ffffff&style=flat-square)](https://scankass.ru) and there I am updating the main application and developing the setup wizard, installer and additional libraries.
+  
+</div>
 
 ## 🌐 Socials:
 <div align="center">
@@ -54,7 +59,7 @@ I am currently working on [![ScanKass](https://img.shields.io/badge/ScanKass-%23
   
 </div>
 
-## ⏲️ WakaTime Stat:
+## ⏲️ WakaTime Stat (Last 7 days):
 <div align="center">
   <a href="https://wakatime.com/@ornaras"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ornaras&theme=transparent&hide_title=true&layout=compact&hide_border=true"/></a>
 </div>
@@ -84,7 +89,6 @@ I am currently working on [![ScanKass](https://img.shields.io/badge/ScanKass-%23
 # 📊 GitHub Stats:
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornaras&theme=transparent&layout=donut"/>
   <img src="https://github-readme-stats.vercel.app/api?username=ornaras&theme=transparent&show=reviews"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornaras&theme=transparent&layout=donut"/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ornaras&theme=transparent"/>
 </div>
