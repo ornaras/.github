@@ -59,7 +59,7 @@
   
 </div>
 
-## ⏲️ WakaTime Stat (Last 7 days):
+## ⏲️ WakaTime Stat (Last year):
 <div align="center">
   <a href="https://wakatime.com/@ornaras"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ornaras&theme=transparent&hide_title=true&layout=compact&hide_border=true"/></a>
 </div>
