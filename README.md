@@ -56,6 +56,15 @@
   <img src="https://img.shields.io/badge/cisco-049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco"> 
   <img src="https://img.shields.io/badge/wireguard-88171A.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="Wireguard"> 
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"> 
+
+### Hardware
+![Static Badge](https://img.shields.io/badge/Quest_2-1C1E20?style=for-the-badge&logo=oculus&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Realme_C51-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Static Badge](https://img.shields.io/badge/X280-EE2624?style=for-the-badge&logo=thinkpad&logoColor=white&logoSize=auto)
+
+![Static Badge](https://img.shields.io/badge/Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/NVIDIA_GTX_1660_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white&logoSize=auto)
+
   
 </div>
 
