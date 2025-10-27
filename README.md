@@ -30,41 +30,32 @@
   <img src="https://img.shields.io/badge/GO-white?style=for-the-badge&logo=go" alt="GO"> 
 
 ### Frameworks and SDKs
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/flask-black.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> 
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"> 
+  <img src="https://img.shields.io/badge/.net-5C2D91?style=for-the-badge&logoColor=white&logoSize=auto" alt=".Net">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&logoSize=auto" alt="Arduino">
+  <img src="https://img.shields.io/badge/flask-black.svg?style=for-the-badge&logo=flask&logoColor=white&logoSize=auto" alt="Flask"> 
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoSize=auto" alt="FastAPI"> 
 
 ### Game Engines
-  <img src="https://img.shields.io/badge/GODOT-white.svg?style=for-the-badge&logo=godot-engine" alt="Godot Engine"> 
-  <img src="https://img.shields.io/badge/unity-black.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"> 
+  <img src="https://img.shields.io/badge/GODOT-white.svg?style=for-the-badge&logo=godot-engine&logoSize=auto" alt="Godot Engine"> 
+  <img src="https://img.shields.io/badge/unity-black.svg?style=for-the-badge&logo=unity&logoColor=white&logoSize=auto" alt="Unity"> 
 
 ### Databases
-  <img src="https://img.shields.io/badge/sqlite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"> 
-  <img src="https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/sqlite-07405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&logoSize=auto" alt="SQLite"> 
+  <img src="https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto" alt="Postgres">
 
 ### Tools
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> 
-  <img src="https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"> 
-  <img src="https://img.shields.io/badge/gitlab%20CI-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"> 
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"> 
-  <img src="https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"> 
-  <img src="https://img.shields.io/badge/Swagger-Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"> 
-  <img src="https://img.shields.io/badge/NSIS-01B0F0.svg?style=for-the-badge&logo=nsis&logoColor=white" alt="NSIS">
-  <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube"> 
-  <img src="https://img.shields.io/badge/cisco-049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco"> 
-  <img src="https://img.shields.io/badge/wireguard-88171A.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="Wireguard"> 
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"> 
-
-### Hardware
-![Static Badge](https://img.shields.io/badge/Quest_2-1C1E20?style=for-the-badge&logo=oculus&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Realme_C51-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Static Badge](https://img.shields.io/badge/X280-EE2624?style=for-the-badge&logo=thinkpad&logoColor=white&logoSize=auto)
-
-![Static Badge](https://img.shields.io/badge/Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/NVIDIA_GTX_1660_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white&logoSize=auto)
-
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto" alt="Figma"> 
+  <img src="https://img.shields.io/badge/github%20actions-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&logoSize=auto" alt="GitHub Actions"> 
+  <img src="https://img.shields.io/badge/gitlab%20CI-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&logoSize=auto" alt="GitLab CI"> 
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white&logoSize=auto" alt="Git"> 
+  <img src="https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto" alt="Docker"> 
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=auto" alt="Postman"> 
+  <img src="https://img.shields.io/badge/Swagger-Clojure?style=for-the-badge&logo=swagger&logoColor=white&logoSize=auto" alt="Swagger"> 
+  <img src="https://img.shields.io/badge/NSIS-01B0F0.svg?style=for-the-badge&logo=nsis&logoColor=white&logoSize=auto" alt="NSIS">
+  <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD&logoSize=auto" alt="SonarQube"> 
+  <img src="https://img.shields.io/badge/cisco-049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white&logoSize=auto" alt="Cisco"> 
+  <img src="https://img.shields.io/badge/wireguard-88171A.svg?style=for-the-badge&logo=wireguard&logoColor=white&logoSize=auto" alt="Wireguard"> 
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoSize=auto" alt="JWT"> 
   
 </div>
 
