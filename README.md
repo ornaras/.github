@@ -71,7 +71,7 @@
 [![eou-port-changer](https://github-readme-stats.vercel.app/api/pin/?username=ornaras&repo=eou-port-changer&theme=transparent)](https://github.com/ornaras/eou-port-changer)
 [![PCBSLib](https://github-readme-stats.vercel.app/api/pin/?username=ornaras&repo=PCBSLib&theme=transparent)](https://github.com/ornaras/PCBSLib)
 [![HackerMan](https://github-readme-stats.vercel.app/api/pin/?username=ornaras&repo=HackerMan&theme=transparent)](https://github.com/ornaras/HackerMan)
-[![MiniBots](https://github-readme-stats.vercel.app/api/pin/?username=ornaras&repo=MiniBots&theme=transparent)](https://github.com/ornaras/MiniBots)
+[![Hermes](https://raw.githubusercontent.com/ornaras/.github/refs/heads/main/profile/Hermes.svg)](https://gitlab.com/ornaras/hermes)
 [![ServiceHelper](https://github-readme-stats.vercel.app/api/pin/?username=ornaras&repo=ServiceHelper&theme=transparent)](https://github.com/ornaras/ServiceHelper)
 [![Kraig](https://github-readme-stats.vercel.app/api/pin/?username=ornaras&repo=Kraig&theme=transparent)](https://github.com/ornaras/Kraig)
 [![RetailCorrector](https://raw.githubusercontent.com/ornaras/.github/refs/heads/main/profile/RetailCorrector.svg)](https://gitlab.com/ornaras/retailcorrector)
