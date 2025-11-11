@@ -20,7 +20,7 @@
 # 💻 Tech Stack 💻
 <div align="center">
 
-## 🔷 Primary stack 🔷
+## 🚀 Primary stack 🚀
   <img src="https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logoColor=white" alt="C#"> 
   <img src="https://img.shields.io/badge/GO-white?style=for-the-badge&logo=go" alt="Go"> 
   <img src="https://img.shields.io/badge/.net-5C2D91?style=for-the-badge&logoColor=white&logoSize=auto" alt=".Net">
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=auto" alt="Postman"> 
   <img src="https://img.shields.io/badge/Swagger-Clojure?style=for-the-badge&logo=swagger&logoColor=white&logoSize=auto" alt="Swagger"> 
 
-## 🔹 Secondary stack 🔹
+## 🧪 Secondary stack 🧪
   <img src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"> 
   <img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> 
