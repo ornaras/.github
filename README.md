@@ -4,7 +4,7 @@
 
 ### Developer focused on backend and desktop applications. Experienced in .NET ecosystem, deployment automation, and hardware integration. Currently working on [ScanKass](https://scankass.ru), maintaining the main application and developing the setup wizard, installer, and auxiliary libraries.
 
-## 🌐 Socials:
+## 🌐 Socials
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x3vqawvoyv7i2ihth5hersa3f4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31x3vqawvoyv7i2ihth5hersa3f4&redirect=true)
@@ -17,7 +17,7 @@
   
 </div>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 <div align="center">
 
 ## Primary stack
@@ -56,12 +56,12 @@
   
 </div>
 
-## ⏲️ WakaTime Stat (Last year):
+## ⏲️ WakaTime Stat (Last year)
 <div align="center">
   <a href="https://wakatime.com/@ornaras"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ornaras&theme=transparent&hide_title=true&layout=compact&hide_border=true"/></a>
 </div>
 
-# 🗂️ My Projects:
+# 🗂️ My Projects
 <div align="center">
   
 [![PresentTime](https://raw.githubusercontent.com/ornaras/ornaras/refs/heads/main/repo-pins/PresentTime.svg)](https://github.com/ornaras/PresentTime)
@@ -75,7 +75,7 @@
   
 </div>
 
-# 📜 My Gists:
+# 📜 My Gists
 <div align="center">
 
 [![Atol.Driver10.Fptr.Constants.cs](https://github-readme-stats.vercel.app/api/gist?id=2a1237ffa669f63c20c5482d653ed4aa&theme=transparent)](https://gist.github.com/ornaras/2a1237ffa669f63c20c5482d653ed4aa)
@@ -83,7 +83,7 @@
 
 </div>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornaras&theme=transparent&layout=donut"/>
