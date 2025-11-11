@@ -52,7 +52,8 @@
   <img src="https://img.shields.io/badge/unity-black.svg?style=for-the-badge&logo=unity&logoColor=white&logoSize=auto" alt="Unity"> 
   <img src="https://img.shields.io/badge/NSIS-01B0F0.svg?style=for-the-badge&logo=nsis&logoColor=white&logoSize=auto" alt="NSIS">
   <img src="https://img.shields.io/badge/cisco-049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white&logoSize=auto" alt="Cisco"> 
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoSize=auto" alt="JWT"> 
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoSize=auto" alt="JWT">
+  <img src="https://img.shields.io/badge/Roslyn-c1272d?style=for-the-badge&logoSize=auto" alt="Roslyn">
   
 </div>
 
