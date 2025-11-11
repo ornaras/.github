@@ -4,7 +4,7 @@
 
 ### Developer focused on backend and desktop applications. Experienced in .NET ecosystem, deployment automation, and hardware integration. Currently working on [ScanKass](https://scankass.ru), maintaining the main application and developing the setup wizard, installer, and auxiliary libraries.
 
-## 🌐 Socials
+## 🌐 Socials 🌐
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x3vqawvoyv7i2ihth5hersa3f4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31x3vqawvoyv7i2ihth5hersa3f4&redirect=true)
@@ -17,10 +17,10 @@
   
 </div>
 
-# 💻 Tech Stack
+# 💻 Tech Stack 💻
 <div align="center">
 
-## Primary stack
+## 🔷 Primary stack 🔷
   <img src="https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logoColor=white" alt="C#"> 
   <img src="https://img.shields.io/badge/GO-white?style=for-the-badge&logo=go" alt="Go"> 
   <img src="https://img.shields.io/badge/.net-5C2D91?style=for-the-badge&logoColor=white&logoSize=auto" alt=".Net">
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=auto" alt="Postman"> 
   <img src="https://img.shields.io/badge/Swagger-Clojure?style=for-the-badge&logo=swagger&logoColor=white&logoSize=auto" alt="Swagger"> 
 
-## Secondary stack
+## 🔹 Secondary stack 🔹
   <img src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"> 
   <img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> 
@@ -56,12 +56,12 @@
   
 </div>
 
-## ⏲️ WakaTime Stat (Last year)
+## ⏲️ WakaTime Stat (Last year) ⏲️
 <div align="center">
   <a href="https://wakatime.com/@ornaras"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ornaras&theme=transparent&hide_title=true&layout=compact&hide_border=true"/></a>
 </div>
 
-# 🗂️ My Projects
+# 🗂️ My Projects 🗂️
 <div align="center">
   
 [![PresentTime](https://raw.githubusercontent.com/ornaras/ornaras/refs/heads/main/repo-pins/PresentTime.svg)](https://github.com/ornaras/PresentTime)
@@ -75,7 +75,7 @@
   
 </div>
 
-# 📜 My Gists
+# 📜 My Gists 📜
 <div align="center">
 
 [![Atol.Driver10.Fptr.Constants.cs](https://github-readme-stats.vercel.app/api/gist?id=2a1237ffa669f63c20c5482d653ed4aa&theme=transparent)](https://gist.github.com/ornaras/2a1237ffa669f63c20c5482d653ed4aa)
@@ -83,7 +83,7 @@
 
 </div>
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats 📊
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornaras&theme=transparent&layout=donut"/>
